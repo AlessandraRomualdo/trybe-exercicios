@@ -12,7 +12,7 @@
 
 ### Bloco 2: Introdução à HTML & CSS
 
-- [ ] 2-1: Estruturas de páginas
+- [X] 2-1: Estruturas de páginas
 
 - [ ] 2-2: Primeiros passos em CSS
 
