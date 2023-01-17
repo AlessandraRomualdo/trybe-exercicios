@@ -14,7 +14,7 @@
 
 - [X] 2-1: Estruturas de páginas
 
-- [ ] 2-2: Primeiros passos em CSS
+- [X] 2-2: Primeiros passos em CSS
 
 - [ ] 2-3: Seletores e posicionamento
 
