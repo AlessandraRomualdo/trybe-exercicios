@@ -37,7 +37,7 @@ h3{
     text-align: center;
     font-size: 25px;
 }
-div:nth-of-type(odd){
+div:nth-of-type(odd) h3{
     font-style: italic;
     
 }
