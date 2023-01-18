@@ -1,0 +1,41 @@
+
+/*Posicione o Mário acima do Goomba.
+
+Posicione a tag p para que fique dentro do balão de fala.
+
+Posicione o balão para que se torne uma fala de Bowser*/
+.super-mario {
+    width: 200px;
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .goomba {
+    width: 100px;
+    position: absolute;
+    z-index: 2;
+    top: 370px;
+    left: 50px;
+  }
+  
+  .baloon {
+  position: absolute;
+  z-index: 3;
+  left: 250px;
+  }
+  
+  .speach {
+    font-size: 25px;
+    position: absolute;
+    z-index: 4;
+    left: 270px;
+    top: 120px;
+  }
+  
+  .bowser {
+    width: 300px;
+    position: absolute;
+    z-index: 5;
+    left: 550px;
+    top: 250px;
+  }
