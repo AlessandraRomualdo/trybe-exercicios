@@ -18,13 +18,13 @@
 
 - [X] 2-3: Seletores e posicionamento
 
-- [ ] 2-4: HTML Semântico
+- [X] 2-4: HTML Semântico
 
-- [ ] 2.5: Projeto - Lessons Learned
+- [X] 2.5: Projeto - Lessons Learned
 
 ### Bloco 3: Introdução à JavaScript
 
-- [ ] 3-1: Primeiros passos
+- [X] 3-1: Primeiros passos
 
 - [ ]  3-2: Array e loop For
 
