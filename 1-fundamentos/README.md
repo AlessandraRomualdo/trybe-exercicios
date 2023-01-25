@@ -26,7 +26,7 @@
 
 - [X] 3-1: Primeiros passos
 
-- [ ]  3-2: Array e loop For
+- [X]  3-2: Array e loop For
 
 - [ ] 3-3: Lógica de Programação e Algoritmos
 
