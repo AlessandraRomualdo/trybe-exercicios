@@ -1,6 +1,6 @@
 ## Módulo de Fundamentos
 
-### Bloco 1: Unix, Shell e Git :white_check_mark:
+### Bloco 1: Unix, Shell e Git :heavy_check_mark:
 
 - [X] 1-1: Unix & Shell- Part 1
 
@@ -10,7 +10,7 @@
 
 - [X] 1-4: Git & GitHub - Entendendo os comandos
 
-### Bloco 2: Introdução à HTML & CSS
+### Bloco 2: Introdução à HTML & CSS :heavy_check_mark:
 
 - [X] 2-1: Estruturas de páginas
 
@@ -28,7 +28,7 @@
 
 - [X]  3-2: Array e loop For
 
-- [ ] 3-3: Lógica de Programação e Algoritmos
+- [X] 3-3: Lógica de Programação e Algoritmos
 
 - [ ]  3-4: Objetos e funções
 
