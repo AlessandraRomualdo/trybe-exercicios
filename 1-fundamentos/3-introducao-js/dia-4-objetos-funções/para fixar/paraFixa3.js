@@ -66,4 +66,12 @@ function triangulo(angulo1, angulo2, angulo3){
         return true
     }
 }
-console.log(triangulo(30, 120, 30))
+console.log(triangulo(30, 120, 30))  
+//exercicio
+let a = "Serei a melhor pessoa dev";
+let b = "Esse é meu jeito dev de ser!";
+let num = 2;
+let strings = [a, b];
+
+console.log((typeof strings.length) == (typeof num));
+
