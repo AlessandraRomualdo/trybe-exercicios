@@ -30,7 +30,7 @@
 
 - [X] 3-3: Lógica de Programação e Algoritmos
 
-- [ ]  3-4: Objetos e funções
+- [X]  3-4: Objetos e funções
 
 - [ ]  3.5: JavaScript ES6 - let, const, arrow functions e template literals
 

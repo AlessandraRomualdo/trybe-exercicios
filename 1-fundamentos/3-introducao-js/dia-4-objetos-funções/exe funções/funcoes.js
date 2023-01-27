@@ -1,22 +1,22 @@
 
 //primeiro
-const ligarDesligar = (status) => {
-
-    if(status === 'ligado'){
-        status = 'desligado'
-          msg = `O motor está ${status}` 
+const ligarDesligar = (statusCarro) => {
+    
+    if(statusCarro === 'ligado'){
+        statusCarro = 'desligado'
+          return `O motor está ${statusCarro}` 
     }else{
-        status = 'lidado'
-        msg = `O motor está ${status}` 
+        statusCarro = 'lidado'
+       return  `O motor está ${statusCarro}` 
     }
-    return msg
 }
 console.log(ligarDesligar('desligado'))
 // segundo
 const circleArea = (radius) => {
     let pi = 3.14
     area = pi * (radius**2)
-    if(radius !== typeof(number)){
+//troquei essa parte (radius !== typepf('number'))
+    if(typeof(radius) !== 'number'){
         return `O parâmetro radius deve ser um número`
     }else{
         return `Essa é a área do círculo: ${area}`
