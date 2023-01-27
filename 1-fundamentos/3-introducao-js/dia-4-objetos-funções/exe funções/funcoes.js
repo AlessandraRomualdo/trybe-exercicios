@@ -10,6 +10,7 @@ const ligarDesligar = (statusCarro) => {
        return  `O motor está ${statusCarro}` 
     }
 }
+
 console.log(ligarDesligar('desligado'))
 // segundo
 const circleArea = (radius) => {
