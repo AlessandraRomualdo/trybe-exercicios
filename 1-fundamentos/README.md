@@ -22,7 +22,7 @@
 
 - [X] 2.5: Projeto - Lessons Learned
 
-### Bloco 3: Introdução à JavaScript
+### Bloco 3: Introdução à JavaScript :heavy_check_mark:
 
 - [X] 3-1: Primeiros passos
 
@@ -32,9 +32,9 @@
 
 - [X]  3-4: Objetos e funções
 
-- [ ]  3.5: JavaScript ES6 - let, const, arrow functions e template literals
+- [X]  3.5: JavaScript ES6 - let, const, arrow functions e template literals
 
-- [ ]  3-6: Projeto - Playground Functions
+- [X]  3-6: Projeto - Playground Functions
 
 ### Bloco 4: JavaScript: DOM, Eventos e Web Storage
 
@@ -50,7 +50,7 @@
 
 - [ ]  4-6: Projetos Bônus
 
-- [ ]  Bloco 5: HTML e CSS: Forms, Flexbox e Responsivo
+###  Bloco 5: HTML e CSS: Forms, Flexbox e Responsivo
 
 - [ ]  5-1: HTML & CSS - Forms
 

@@ -11,11 +11,11 @@ _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda
 
 ## Módulo: Fundamentos :hourglass_flowing_sand:
 
--Unix, Shell e Git :white_check_mark:
+-Unix, Shell e Git :heavy_check_mark:
 
--Introdução à HTML & CSS :hourglass_flowing_sand:
+-Introdução à HTML & CSS :heavy_check_mark:
 
--Introdução à JavaScript
+-Introdução à JavaScript :heavy_check_mark:
 
 -JavaScript: DOM, Eventos e Web Storage
 
