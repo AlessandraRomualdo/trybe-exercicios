@@ -38,7 +38,7 @@
 
 ### Bloco 4: JavaScript: DOM, Eventos e Web Storage
 
-- [ ]  4-1: DOM e seletores
+- [X]  4-1: DOM e seletores
 
 - [ ]  4-2: Trabalhando com elementos
 
