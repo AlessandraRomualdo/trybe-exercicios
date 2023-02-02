@@ -40,7 +40,7 @@
 
 - [X]  4-1: DOM e seletores
 
-- [ ]  4-2: Trabalhando com elementos
+- [X]  4-2: Trabalhando com elementos
 
 - [ ]  4-3: Eventos
 
