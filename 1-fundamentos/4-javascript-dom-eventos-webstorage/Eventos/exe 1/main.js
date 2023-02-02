@@ -30,11 +30,9 @@ input.addEventListener('keyup', changerText);
 // - Crie uma função que, ao clicar duas vezes em 'Meu top 3 do Spotrybefy', ele
 // redirecione para alguma página;
 //  - Que tal redirecionar para seu portfólio?
-
   myWebpage.addEventListener('dblclick', ()=> {
     window.location.replace('https://alessandraromualdo.github.io/pagina-apresentacao/');
-  });
-
+  })
 
 // - Crie uma função que, ao passar o mouse sobre 'Meu top 3 do Spotrybefy', altere
 // a cor do mesmo;
