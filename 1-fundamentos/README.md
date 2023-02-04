@@ -42,9 +42,9 @@
 
 - [X]  4-2: Trabalhando com elementos
 
-- [ ]  4-3: Eventos
+- [X]  4-3: Eventos
 
-- [ ]  4-4: Web Storage
+- [X]  4-4: Web Storage
 
 - [ ]  4-5: Projeto: Arte com Pixels
 
