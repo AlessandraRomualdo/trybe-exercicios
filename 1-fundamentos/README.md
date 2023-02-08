@@ -46,7 +46,7 @@
 
 - [X]  4-4: Web Storage
 
-- [ ]  4-5: Projeto: Arte com Pixels
+- [X]  4-5: Projeto: Arte com Pixels
 
 - [ ]  4-6: Projetos Bônus
 
