@@ -36,7 +36,7 @@
 
 - [X]  3-6: Projeto - Playground Functions
 
-### Bloco 4: JavaScript: DOM, Eventos e Web Storage
+### Bloco 4: JavaScript: DOM, Eventos e Web Storage :heavy_check_mark:
 
 - [X]  4-1: DOM e seletores
 
@@ -48,11 +48,11 @@
 
 - [X]  4-5: Projeto: Arte com Pixels
 
-- [ ]  4-6: Projetos Bônus
+- [X]  4-6: Projetos Bônus
 
 ###  Bloco 5: HTML e CSS: Forms, Flexbox e Responsivo
 
-- [ ]  5-1: HTML & CSS - Forms
+- [X]  5-1: HTML & CSS - Forms
 
 - [ ]  5-2: Bibliotecas JavaScript e Frameworks CSS
 
