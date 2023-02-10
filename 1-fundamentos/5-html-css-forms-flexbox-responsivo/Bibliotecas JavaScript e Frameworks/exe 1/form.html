@@ -5,8 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Travel Form</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap" rel="stylesheet">
   <!-- CSS only -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css">
   <script src="script.js" defer></script>
   <link rel="stylesheet" href="style.css">
 </head>
@@ -14,17 +18,25 @@
   <h1 class="h1" id="title">Formulário Trybe Travel</h1>
   <form class="form-floating" id="main-form" action="">
     <section class="mb-3">
-      <label class="form-label" for="fullName">Nome Completo: <input class="form-control" min="10" max="40" type="text" name="" id="fullName"></label>
+      <label class="form-label" for="fullName">Nome Completo: <input class="form-control" min="10" max="40"  type="text" name="fullName" id="fullName" placeholder="Seu nome completo"></label>
     </section>
     <section class="mb-3">
-      <label for="email">E-mail: <input  class="form-control" min="10" max="50" maxlength="50" type="text" name="" id="email"></label>
+      <label for="email">E-mail: <input  class="form-control" min="10" max="50" maxlength="50" type="text" name="email" id="email" placeholder="email@email"></label>
     </section>
-    <section class="form-control mb-3">
-      <label class="form-check-label">Local favorito para uma viagem</label>
-      <label class="form-check-label" class="form-check-label" for="cit"><input  class="form-check-input" type="radio" name="destinations" id="cit">Cidade</label>
-      <label class="form-check-label" for="campo"><input class="form-check-input"  type="radio" name="destinations" id="campo">Campo</label>
-      <label class="form-check-label" for="praia"><input class="form-check-input"  type="radio" name="destinations" id="praia">Praia</label>
-      <label class="form-check-label" for="mont"><input  class="form-check-input" type="radio" name="destinations" id="mont">Montanha</label>
+    <section class="mb-3">
+      <label for=""> Local onde prefera fazer uma viagem:</label>
+      <div class="form-check">
+        <label class="form-check-label" class="form-check-label" for="cit"><input  class="form-check-input" type="radio" name="destinations" id="cit">Cidade</label>
+      </div>
+      <div class="form-check">
+        <label class="form-check-label" for="campo"><input class="form-check-input"  type="radio" name="destinations" id="campo">Campo</label>
+      </div>
+      <div class="form-check">
+        <label class="form-check-label" for="praia"><input class="form-check-input"  type="radio" name="destinations" id="praia">Praia</label>
+      </div>
+      <div class="form-check">
+        <label class="form-check-label" for="mont"><input  class="form-check-input" type="radio" name="destinations" id="mont">Montanha</label>
+      </div>
     </section>
     <section class="mb-3">
       <label for="question">Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?<textarea  class="form-control" name="" maxlength="500" id="question" cols="30" rows="10"></textarea></label>
@@ -36,12 +48,13 @@
       <label class="form-check-label" for="promo">Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?<input class="form-check-input"  type="checkbox" name="" id="promo"></label>
     </section>
     <section class="mb-3">
-      <label class="form-check-label" for="agreement">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros<input class="form-check-input"  type="checkbox"  name="" id="agreement"></label>
+      <label class="form-check-label" for="agreement">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.<input class="form-check-input"  type="checkbox"  name="" id="agreement"></label>
     </section>
     <section class="mb-3">
       <button class="btn btn-primary" type="submit" id="submit-btn" disabled>Enviar</button>
       <button class="btn btn-danger" id="clear-btn">Limpar</button>
     </section>
   </form>
+  <script src="https://cdn.jsdelivr.net/npm/pikaday/pikaday.js"></script>
 </body>
 </html>

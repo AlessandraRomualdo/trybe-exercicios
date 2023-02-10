@@ -54,7 +54,7 @@
 
 - [X]  5-1: HTML & CSS - Forms
 
-- [ ]  5-2: Bibliotecas JavaScript e Frameworks CSS
+- [X]  5-2: Bibliotecas JavaScript e Frameworks CSS
 
 - [ ]  5-3: CSS Flexbox - Parte 1
 
