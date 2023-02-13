@@ -56,7 +56,7 @@
 
 - [X]  5-2: Bibliotecas JavaScript e Frameworks CSS
 
-- [ ]  5-3: CSS Flexbox - Parte 1
+- [X]  5-3: CSS Flexbox - Parte 1
 
 - [ ]  5-4: CSS Flexbox - Parte 2
 
