@@ -17,7 +17,7 @@ _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda
 
 -Introdução à JavaScript :heavy_check_mark:
 
--JavaScript: DOM, Eventos e Web Storage
+-JavaScript: DOM, Eventos e Web Storage :heavy_check_mark:
 
 -HTML e CSS: Forms, Flexbox e Responsivo
 
