@@ -1,0 +1,13 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+header {
+  display: flex;
+
+  background-color: rgba(255, 235, 205, 0.5);
+}
