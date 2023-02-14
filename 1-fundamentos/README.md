@@ -58,7 +58,7 @@
 
 - [X]  5-3: CSS Flexbox - Parte 1
 
-- [ ]  5-4: CSS Flexbox - Parte 2
+- [X]  5-4: CSS Flexbox - Parte 2
 
 - [ ]  5-5: CSS Responsivo - Mobile First
 
