@@ -60,9 +60,9 @@
 
 - [X]  5-4: CSS Flexbox - Parte 2
 
-- [ ]  5-5: CSS Responsivo - Mobile First
+- [X]  5-5: CSS Responsivo - Mobile First
 
-- [ ]  5-6: Projeto - Trybewarts
+- [X]  5-6: Projeto - Trybewarts
 
 ### Bloco 6: Introdução à JavaScript ES6 e Testes Unitários
 

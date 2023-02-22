@@ -1,7 +1,7 @@
 
 # Exercícios da Trybe
 
-# Meu repositório de exercicios :white_check_mark:
+# Meu repositório de exercícios :desktop_computer:
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Alessandra Romualdo](https://www.linkedin.com/in/alessandra-romualdo-07782b1b7/)_ enquanto estudo na [Trybe](https://www.betrybe.com/) :rocket:
 
@@ -19,7 +19,7 @@ _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda
 
 -JavaScript: DOM, Eventos e Web Storage :heavy_check_mark:
 
--HTML e CSS: Forms, Flexbox e Responsivo
+-HTML e CSS: Forms, Flexbox e Responsivo :heavy_check_mark:
 
 -Introdução à JavaScript ES6 e Testes Unitários
 
