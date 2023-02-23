@@ -68,7 +68,7 @@
 
 - [X]  6-1: Fluxo de exceções e manipulação de objetos
 
-- [ ]  6-2: Primeiros passos em Jest
+- [X]  6-2: Primeiros passos em Jest
 
 - [ ]  6-3: Matchers e cobertura de código
 
