@@ -66,7 +66,7 @@
 
 ### Bloco 6: Introdução à JavaScript ES6 e Testes Unitários
 
-- [ ]  6-1: Fluxo de exceções e manipulação de objetos
+- [X]  6-1: Fluxo de exceções e manipulação de objetos
 
 - [ ]  6-2: Primeiros passos em Jest
 
