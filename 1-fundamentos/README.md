@@ -70,7 +70,7 @@
 
 - [X]  6-2: Primeiros passos em Jest
 
-- [ ]  6-3: Matchers e cobertura de código
+- [X]  6-3: Matchers e cobertura de código
 
 - [ ]  6-4: Projeto - JavaScript Testes Unitários
 
