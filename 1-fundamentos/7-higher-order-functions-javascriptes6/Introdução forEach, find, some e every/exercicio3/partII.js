@@ -84,7 +84,9 @@ const smallerName = () => {
 console.log(smallerName());
 
 // Encontre o primeiro livro cujo nome possua 26 caracteres.
-const getNamedBook = () => {
-  return books.find(book => book.name.length === 26);
-}
+const getNamedBook = () => books.find(book => book.name.length === 26);
 console.log(getNamedBook());
+
+// Faça uma função que retorne true se todas as pessoas autoras tiverem nascido no século XX, ou false, caso contrário.
+const everyoneWasBornOnSecXX = () => books.every(book => book.author.birthYear >= 2000);
+console.log(everyoneWasBornOnSecXX());
