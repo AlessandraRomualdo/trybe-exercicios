@@ -88,5 +88,9 @@ const getNamedBook = () => books.find(book => book.name.length === 26);
 console.log(getNamedBook());
 
 // Faça uma função que retorne true se todas as pessoas autoras tiverem nascido no século XX, ou false, caso contrário.
-const everyoneWasBornOnSecXX = () => books.every(book => book.author.birthYear >= 2000);
+const everyoneWasBornOnSecXX = () => books.every(book => book.author.birthYear >= 1901 && book.author.birthYear <= 2000);
 console.log(everyoneWasBornOnSecXX());
+
+// Faça uma função que retorne true, se algum livro foi lançado na década de 80, e false, caso contrário.
+const someBookWasReleaseOnThe80s = () => books.some( book => book.releaseYear >= 1980 && book.releaseYear < 1990);
+console.log(someBookWasReleaseOnThe80s())
