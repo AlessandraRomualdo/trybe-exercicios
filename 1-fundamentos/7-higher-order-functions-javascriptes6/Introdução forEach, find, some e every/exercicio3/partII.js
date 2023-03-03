@@ -93,4 +93,9 @@ console.log(everyoneWasBornOnSecXX());
 
 // Faça uma função que retorne true, se algum livro foi lançado na década de 80, e false, caso contrário.
 const someBookWasReleaseOnThe80s = () => books.some( book => book.releaseYear >= 1980 && book.releaseYear < 1990);
-console.log(someBookWasReleaseOnThe80s())
+console.log(someBookWasReleaseOnThe80s());
+
+// Faça uma função que retorne true, caso nenhuma pessoa autora tenha nascido no mesmo ano, e false, caso contrário.
+const authorUnique = () => {
+  // escreva seu código aqui
+}
