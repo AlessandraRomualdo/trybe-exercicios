@@ -72,13 +72,13 @@
 
 - [X]  6-3: Matchers e cobertura de código
 
-- [ ]  6-4: Projeto - JavaScript Testes Unitários
+- [X]  6-4: Projeto - JavaScript Testes Unitários
 
 ### Bloco 7: Higher Order Functions do JavaScript ES6
 
 - [ ]  7-1: Introdução a Higher Order Functions
 
-- [ ]  7-2: Higher Order Functions - sort e map
+- [X]  7-2: Higher Order Functions - sort e map
 
 - [ ]  7-3: Higher Order Functions - filter e reduce
 
