@@ -76,7 +76,7 @@
 
 ### Bloco 7: Higher Order Functions do JavaScript ES6
 
-- [ ]  7-1: Introdução a Higher Order Functions
+- [X]  7-1: Introdução a Higher Order Functions
 
 - [X]  7-2: Higher Order Functions - sort e map
 
