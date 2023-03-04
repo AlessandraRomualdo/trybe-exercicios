@@ -21,7 +21,7 @@ _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda
 
 -HTML e CSS: Forms, Flexbox e Responsivo :heavy_check_mark:
 
--Introdução à JavaScript ES6 e Testes Unitários
+-Introdução à JavaScript ES6 e Testes Unitários :heavy_check_mark:
 
 -Higher Order Functions do JavaScript ES6
 
