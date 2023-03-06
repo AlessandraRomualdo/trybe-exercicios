@@ -28,4 +28,15 @@ const studentAverage = () => {
     average: (grades[i].reduce((acc, curr) => acc + curr, 0)) / grades[i].length
   }) )
 }
-console.log(studentAverage())
+console.log(studentAverage());
+
+// 1 - Dada uma matriz, transforme em um array.
+const arrays = [
+  ['1', '2', '3'],
+  [true],
+  [4, 5, 6],
+];
+
+const flatten = () => arrays.flat()
+
+console.log(flatten());
