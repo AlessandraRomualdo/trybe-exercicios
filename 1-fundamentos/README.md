@@ -80,9 +80,9 @@
 
 - [X]  7-2: Higher Order Functions - sort e map
 
-- [ ]  7-3: Higher Order Functions - filter e reduce
+- [X]  7-3: Higher Order Functions - filter e reduce
 
-- [ ]  7-4: JavaScript ES6 - spread operator, rest parameters e object destructuring
+- [X]  7-4: JavaScript ES6 - spread operator, rest parameters e object destructuring
 
 - [ ]  7-5: JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
 
