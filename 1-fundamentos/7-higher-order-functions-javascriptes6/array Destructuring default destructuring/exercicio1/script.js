@@ -27,3 +27,38 @@ console.log(comida, animal, bebida); // arroz gato água
 let numerosPares = [1, 3, 5, 6, 8, 10, 12];
 [,,, ...numerosPares] = numerosPares;
 console.log(numerosPares); // [6, 8, 10, 12];
+
+//Do jeito que está, quando person é passado para a função getNationality, o retorno é João is undefined. Ajuste a função getNationality para que a chamada getNationality(person) retorne João is Brazilian.
+
+const person = {
+  firstName: 'João',
+  lastName: 'Jr II',
+};
+const otherPerson = {
+  firstName: 'Ivan',
+  lastName: 'Ivanovich',
+  nationality: 'Russian',
+};
+const getNationality = ({ firstName, nationality = 'Brazilian' }) => `${firstName} is ${nationality}`;
+
+console.log(getNationality(otherPerson)); // Ivan is Russian
+console.log(getNationality(person));
+
+// Agora é hora de praticar: altere a função getPosition utilizando a property shorthand.
+const getPosition = (latitude, longitude) => ({
+  latitude,
+  longitude,
+});
+
+console.log(getPosition(-19.8157, -43.9542));
+
+// Default Parameters
+//const greeting = (user) => console.log(`Welcome ${user}!`);
+greeting(); // Welcome undefined!
+const greeting = (user = 'pessoa usuária') => console.log(`Welcome ${user}!`);
+greeting(); // // Welcome pessoa usuária!
+
+// Para praticar, escreva uma função multiply que multiplique dois números passados como argumentos. Atribua como default o valor 1, caso não seja passado nenhum valor como segundo parâmetro.
+const multiply = (number, value = 1) => number * value;
+
+console.log(multiply(8));
