@@ -50,7 +50,7 @@
 
 - [X]  4-6: Projetos Bônus
 
-###  Bloco 5: HTML e CSS: Forms, Flexbox e Responsivo
+###  Bloco 5: HTML e CSS: Forms, Flexbox e Responsivo :heavy_check_mark:
 
 - [X]  5-1: HTML & CSS - Forms
 
@@ -64,7 +64,7 @@
 
 - [X]  5-6: Projeto - Trybewarts
 
-### Bloco 6: Introdução à JavaScript ES6 e Testes Unitários
+### Bloco 6: Introdução à JavaScript ES6 e Testes Unitários :heavy_check_mark:
 
 - [X]  6-1: Fluxo de exceções e manipulação de objetos
 
