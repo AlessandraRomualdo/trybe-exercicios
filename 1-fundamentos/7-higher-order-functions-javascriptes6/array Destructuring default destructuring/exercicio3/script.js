@@ -27,3 +27,32 @@ console.log(greet('John', 'Good morning')); // 'Good morning John'
 console.log(greet('Isabela', 'Oi')); // 'Oi Isabela'
 // Exercício 4
 // Escreva uma função getLastName que receba como parâmetro um objeto contendo informações de uma pessoa. Essa função deve retornar a propriedade lastName para o objeto passado, porém, caso o objeto não tenha essa propriedade, a função deve retornar a mensagem lastName não preenchido.
+const student1 = {
+  name: `Claudia`,
+  lastName: `Farias`,
+  age: 23,
+}
+
+const student2 = {
+  name: `Vitor`,
+  age: 20,
+}
+// escreva 'getLastName' abaixo para receber os objetos e retornar sua propriedade `lastName`
+const getLastName = (obj) => {
+  const {lastName = 'lastName não preenchido'} = obj
+  return lastName
+}
+console.log(getLastName(student1));
+console.log(getLastName(student2));
+// Exercício 5
+// Usando array destructuring, armazene cada nome presente na variável moreStudents em variáveis separadas:
+const moreStudents = [
+  'Chris', 
+  ['Ahmad', 'Antigoni'], 
+  ['Toby', 'Sam']
+];
+
+// Escreva seu código aqui
+const [student11, [student22, student3], [student4, student5]] = moreStudents;
+
+console.log(student11, student22, student3, student4, student5);
