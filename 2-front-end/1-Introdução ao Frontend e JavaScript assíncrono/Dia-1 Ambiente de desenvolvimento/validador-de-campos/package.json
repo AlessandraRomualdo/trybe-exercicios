@@ -1,0 +1,17 @@
+{
+  "name": "validador-de-campos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open",
+    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.9.0",
+    "vite": "^4.2.0"
+  }
+}
