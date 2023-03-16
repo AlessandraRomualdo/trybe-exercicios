@@ -55,8 +55,16 @@ const cities = [
  */ 
 // Exercício 1
 // Dado um arquivo com dados de regiões, estados e cidades, crie uma função (mapCities) que retorna um objeto no qual as chaves são as siglas das regiões (N, NE, CW, SE e S) e os valores são arrays compostos por objetos com o nome da cidade e o nome do estado.
+// for (let i = 0; i < regions.length; i += 1) {
+//   newOBj[regions[i].short] = []
+// }
 
-const mapCities = () => {
-  
+const mapCities = (regions) => {
+  const newOBj = {};
+  regions.forEach((region) => 
+    newOBj[region.short] = []
+  )
+  return newOBj
 }
-mapCities();
+
+console.log(mapCities(regions));
