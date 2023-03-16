@@ -74,7 +74,7 @@
 
 - [X]  6-4: Projeto - JavaScript Testes Unitários
 
-### Bloco 7: Higher Order Functions do JavaScript ES6
+### Bloco 7: Higher Order Functions do JavaScript ES6 :heavy_check_mark:
 
 - [X]  7-1: Introdução a Higher Order Functions
 
@@ -86,4 +86,4 @@
 
 - [X]  7-5: JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
 
-- [ ]  7-6: Projeto - Zoo functions
+- [X]  7-6: Projeto - Zoo functions
