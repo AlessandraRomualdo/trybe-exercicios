@@ -9,7 +9,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."_
 
-## Módulo: Fundamentos :hourglass_flowing_sand:
+## Módulo: Fundamentos :heavy_check_mark:
 
 -Unix, Shell e Git :heavy_check_mark:
 
@@ -23,9 +23,9 @@ _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda
 
 -Introdução à JavaScript ES6 e Testes Unitários :heavy_check_mark:
 
--Higher Order Functions do JavaScript ES6
+-Higher Order Functions do JavaScript ES6 :heavy_check_mark:
 
-## Módulo: Front-end :hourglass_flowing_sand:
+## Módulo: Front-end :hourglass_flowing_sand: 
 
 -Introdução ao Frontend e JavaScript assíncrono
 

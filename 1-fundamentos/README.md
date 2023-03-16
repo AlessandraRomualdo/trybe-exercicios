@@ -50,7 +50,7 @@
 
 - [X]  4-6: Projetos Bônus
 
-###  Bloco 5: HTML e CSS: Forms, Flexbox e Responsivo
+###  Bloco 5: HTML e CSS: Forms, Flexbox e Responsivo :heavy_check_mark:
 
 - [X]  5-1: HTML & CSS - Forms
 
@@ -64,7 +64,7 @@
 
 - [X]  5-6: Projeto - Trybewarts
 
-### Bloco 6: Introdução à JavaScript ES6 e Testes Unitários
+### Bloco 6: Introdução à JavaScript ES6 e Testes Unitários :heavy_check_mark:
 
 - [X]  6-1: Fluxo de exceções e manipulação de objetos
 
@@ -74,7 +74,7 @@
 
 - [X]  6-4: Projeto - JavaScript Testes Unitários
 
-### Bloco 7: Higher Order Functions do JavaScript ES6
+### Bloco 7: Higher Order Functions do JavaScript ES6 :heavy_check_mark:
 
 - [X]  7-1: Introdução a Higher Order Functions
 
@@ -84,6 +84,6 @@
 
 - [X]  7-4: JavaScript ES6 - spread operator, rest parameters e object destructuring
 
-- [ ]  7-5: JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
+- [X]  7-5: JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
 
-- [ ]  7-6: Projeto - Zoo functions
+- [X]  7-6: Projeto - Zoo functions
