@@ -2,7 +2,7 @@
 
 ### Bloco 1: Introdução ao Frontend e JavaScript assíncrono
 
-- [ ] 1-1: Ambiente de desenvolvimento
+- [X] 1-1: Ambiente de desenvolvimento
 
 - [ ] 1-2:  JavaScript Assíncrono - Promises e fetch
 
