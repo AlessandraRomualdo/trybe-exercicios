@@ -2,15 +2,15 @@
 
 ### Bloco 1: Introdução ao Frontend e JavaScript assíncrono
 
-- [ ] 1-1: Ambiente de desenvolvimento
+- [X] 1-1: Ambiente de desenvolvimento
 
-- [ ] 1-2:  JavaScript Assíncrono - Promises e fetch
+- [X] 1-2:  JavaScript Assíncrono - Promises e fetch
 
-- [ ] 1-3: Prática - Casa de câmbio
+- [X] 1-3: Prática - Casa de câmbio
 
-- [ ] 1-4: Asyns, await e testes assíncronos
+- [X] 1-4: Asyns, await e testes assíncronos
 
-- [ ] 1-5: Projeto - Carrinho de compras
+- [X] 1-5: Projeto - Carrinho de compras
 
 ### Bloco 2: Introdução ao React
 
