@@ -14,19 +14,19 @@
 
 ### Bloco 2: Introdução ao React
 
-- [ ] 2-1: 'Hello, world!' no React!
+- [X] 2-1: 'Hello, world!' no React!
 
-- [ ] 2-2:  Componentes React
+- [X] 2-2:  Componentes React
 
-- [ ] 2-3: Projeto - Solar System
+- [X] 2-3: Projeto - Solar System
 
 ### Bloco 3: Componentes com Estado, Evento e Formulários com React
 
-- [ ] 3-1: Componentes com estado e eventos
+- [X] 3-1: Componentes com estado e eventos
 
-- [ ] 3-2:  Formulãrios no React
+- [X] 3-2:  Formulãrios no React
 
-- [ ] 3-3: Projeto - Tryunfo
+- [X] 3-3: Projeto - Tryunfo
 
 ### Bloco 4: Ciclo de vida de Componetes e React Router
 
