@@ -27,11 +27,11 @@ _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda
 
 ## Módulo: Front-end :hourglass_flowing_sand: 
 
--Introdução ao Frontend e JavaScript assíncrono
+-Introdução ao Frontend e JavaScript assíncrono :heavy_check_mark:
 
--Introdução ao React
+-Introdução ao React :heavy_check_mark:
 
--Componentes com Estado, Eventos e Formulários com React
+-Componentes com Estado, Eventos e Formulários com React :heavy_check_mark:
 
 -Ciclo de Vida de Componentes e React Router
 
