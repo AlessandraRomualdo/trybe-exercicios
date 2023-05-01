@@ -30,14 +30,57 @@
 
 ### Bloco 4: Ciclo de vida de Componetes e React Router
 
-- [ ] 4-1: Ciclo de vida de componetes
+- [X] 4-1: Ciclo de vida de componetes
 
-- [ ] 4-2:  React Router
+- [X] 4-2:  React Router
 
-- [ ] 4-3: Projeto - TrybeTunes
+- [X] 4-3: Projeto - TrybeTunes
 
 ### Bloco 5: Metodologias Ágeis
 
-- [ ] 5-1: Metodologias Ágeis
+- [X] 5-1: Metodologias Ágeis
 
-- [ ] 5-2: Projeto - Front-end Online Store
+- [X] 5-2: Projeto - Front-end Online Store
+
+### Bloco 6: Testes automatizados com React Testing Library
+
+- [X] 6-1: RTL - Primeiros passos
+
+- [X] 6-2: RTL - Mocks e Inputs
+
+- [X] 6-3: RTL - Testando React Router
+
+- [ ] 6-4: Projeto - Testes em React
+
+### Bloco 7: Gerenciamento de estado com Redux
+
+
+- [ ] 7-1: Introdução ao Redux - O estado global da aplicação
+
+- [ ] 7-2: Usando o Redux no React
+
+- [ ] 7-3: Usando o Redux no React - Prática
+
+- [ ] 7-4: Usando o redux no react - Actions Assíncronas
+
+- [ ] 7-5: Testes em React - Redux
+
+- [ ] 7-6: Projeto - Trybe Wallet
+
+### Bloco 8: Projeto Jogo de Trivia
+
+- [ ] 8-1: Projeto - Jogo de Trivia
+
+### Bloco 9: Context API e React Hooks
+
+- [ ] 9-1: React Hooks - useState e useEffect
+
+- [ ] 9-2: Context API
+
+- [ ] 9-3: Custom Hooks
+
+- [ ] 9-4: Projeto - StarWars Datatable com Context API e Hooks
+
+### Bloco 10: Projeto App de Receitas
+
+- [ ] 10-1: Projeto - App de Receitas

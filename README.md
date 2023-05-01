@@ -33,9 +33,9 @@ _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda
 
 -Componentes com Estado, Eventos e Formulários com React :heavy_check_mark:
 
--Ciclo de Vida de Componentes e React Router
+-Ciclo de Vida de Componentes e React Router :heavy_check_mark:
 
--Metodologias Ágeis
+-Metodologias Ágeis :heavy_check_mark:
 
 -Testes automatizados com React Testing Library
 
@@ -49,3 +49,42 @@ _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda
 
 ## Módulo: Back-end :hourglass_flowing_sand:
 
+-Docker: Itilizando Containers
+
+-Introdução à SQL
+
+-Funções SQL, JOINs e Normalização
+
+-Introdução ao desenvolvimento Web com Node.js
+
+-Arquitetura de Software: Model, Service e Controller
+
+-Node.js: ORM e Autenticação
+
+-Masterclass: In=mplatação de Aplicações na Nuvem
+
+-Introdução a TypeScript
+
+-Programação Orientada a Objetos (POO) e SOLID
+
+-Projeto - TFC - Trybe Futebol Clube
+
+-Introdução ao MongoDB
+
+-APIs OO e NoSQL
+
+-Projeto - App de Delivery
+
+## Módulo: Ciência da Conputação
+
+-Introdução à Python
+
+-Padrões de Projeto
+
+-Raspagem de Dados
+
+-Algoritmos
+
+-Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
+
+-Estrutura de dados II: Hashmaps e Sets
