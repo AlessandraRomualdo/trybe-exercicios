@@ -37,7 +37,7 @@ _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda
 
 -Metodologias Ágeis :heavy_check_mark:
 
--Testes automatizados com React Testing Library
+-Testes automatizados com React Testing Library :heavy_check_mark:
 
 -Gerenciamento de estado com Redux
 

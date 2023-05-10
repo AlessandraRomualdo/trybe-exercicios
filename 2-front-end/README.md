@@ -50,16 +50,16 @@
 
 - [X] 6-3: RTL - Testando React Router
 
-- [ ] 6-4: Projeto - Testes em React
+- [X] 6-4: Projeto - Testes em React
 
 ### Bloco 7: Gerenciamento de estado com Redux
 
 
-- [ ] 7-1: Introdução ao Redux - O estado global da aplicação
+- [X] 7-1: Introdução ao Redux - O estado global da aplicação
 
-- [ ] 7-2: Usando o Redux no React
+- [X] 7-2: Usando o Redux no React
 
-- [ ] 7-3: Usando o Redux no React - Prática
+- [X] 7-3: Usando o Redux no React - Prática
 
 - [ ] 7-4: Usando o redux no react - Actions Assíncronas
 
