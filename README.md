@@ -39,9 +39,9 @@ _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda
 
 -Testes automatizados com React Testing Library :heavy_check_mark:
 
--Gerenciamento de estado com Redux
+-Gerenciamento de estado com Redux :heavy_check_mark:
 
--Projeto Jogo de Trivia
+-Projeto Jogo de Trivia :heavy_check_mark:
 
 -Context API e React Hooks
 

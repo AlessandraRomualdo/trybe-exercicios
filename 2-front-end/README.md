@@ -61,19 +61,20 @@
 
 - [X] 7-3: Usando o Redux no React - Prática
 
-- [ ] 7-4: Usando o redux no react - Actions Assíncronas
+- [X] 7-4: Usando o redux no react - Actions Assíncronas
 
-- [ ] 7-5: Testes em React - Redux
+- [X] 7-5: Testes em React - Redux
 
-- [ ] 7-6: Projeto - Trybe Wallet
+- [X] 7-6: Projeto - Trybe Wallet
+
 
 ### Bloco 8: Projeto Jogo de Trivia
 
-- [ ] 8-1: Projeto - Jogo de Trivia
+- [X] 8-1: Projeto - Jogo de Trivia
 
 ### Bloco 9: Context API e React Hooks
 
-- [ ] 9-1: React Hooks - useState e useEffect
+- [X] 9-1: React Hooks - useState e useEffect
 
 - [ ] 9-2: Context API
 
