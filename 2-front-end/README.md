@@ -76,12 +76,12 @@
 
 - [X] 9-1: React Hooks - useState e useEffect
 
-- [ ] 9-2: Context API
+- [X] 9-2: Context API
 
-- [ ] 9-3: Custom Hooks
+- [X] 9-3: Custom Hooks
 
-- [ ] 9-4: Projeto - StarWars Datatable com Context API e Hooks
+- [X] 9-4: Projeto - StarWars Datatable com Context API e Hooks
 
 ### Bloco 10: Projeto App de Receitas
 
-- [ ] 10-1: Projeto - App de Receitas
+- [X] 10-1: Projeto - App de Receitas

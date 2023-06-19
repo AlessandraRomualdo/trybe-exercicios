@@ -25,7 +25,7 @@ _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda
 
 -Higher Order Functions do JavaScript ES6 :heavy_check_mark:
 
-## Módulo: Front-end :hourglass_flowing_sand: 
+## Módulo: Front-end :heavy_check_mark:
 
 -Introdução ao Frontend e JavaScript assíncrono :heavy_check_mark:
 
@@ -43,9 +43,9 @@ _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda
 
 -Projeto Jogo de Trivia :heavy_check_mark:
 
--Context API e React Hooks
+-Context API e React Hooks :heavy_check_mark:
 
--Projeto App de Receitas
+-Projeto App de Receitas :heavy_check_mark:
 
 ## Módulo: Back-end :hourglass_flowing_sand:
 
@@ -61,7 +61,7 @@ _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda
 
 -Node.js: ORM e Autenticação
 
--Masterclass: In=mplatação de Aplicações na Nuvem
+-Masterclass: Implatação de Aplicações na Nuvem
 
 -Introdução a TypeScript
 
