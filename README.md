@@ -49,11 +49,11 @@ _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda
 
 ## Módulo: Back-end :hourglass_flowing_sand:
 
--Docker: Itilizando Containers
+-Docker: Itilizando Containers :heavy_check_mark:
 
--Introdução à SQL
+-Introdução à SQL :heavy_check_mark:
 
--Funções SQL, JOINs e Normalização
+-Funções SQL, JOINs e Normalização :heavy_check_mark:
 
 -Introdução ao desenvolvimento Web com Node.js
 
