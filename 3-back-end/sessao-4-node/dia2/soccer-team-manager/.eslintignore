@@ -1,0 +1,2 @@
+// Usado para você dizer ao ESLint que ignore arquivos e diretórios específicos;
+node_modules
