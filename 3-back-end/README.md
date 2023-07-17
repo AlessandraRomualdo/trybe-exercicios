@@ -34,9 +34,9 @@
 
 ### Bloco 4: Introdução ao desenvolvimento Web com Node.js
 
-- [] 1-1: Node.js Runtime Assíncrono
+- [X] 1-1: Node.js Runtime Assíncrono
 
-- [] 1-2: Node.js: API REST com Express
+- [X] 1-2: Node.js: API REST com Express
 
 - [] 1-3: Node.js: Testes de Integração
 
