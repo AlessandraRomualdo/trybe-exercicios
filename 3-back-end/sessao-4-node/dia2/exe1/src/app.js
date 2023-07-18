@@ -115,4 +115,5 @@ app.get('/movies/search', async (req, res) => {
     res.status(500).send({ message: err.message });
   }
 });
+
 module.exports = app;
