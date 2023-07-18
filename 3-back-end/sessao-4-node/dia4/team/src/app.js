@@ -1,6 +1,8 @@
 const express = require('express');
+require('express-async-errors'); // não precisa definir uma variável
 const existingId = require('./middleware/existingId');
 const validateTeam = require('./middleware/validateTeam');
+const apiCredentials = require('./middleware/apiCredentials');
 const app = express();
 
 let nextId = 3;
@@ -13,6 +15,7 @@ app.use(express.json());
 
 
 app.get('/teams', (req, res) => res.json(teams));
+app.use(apiCredentials);
 
 app.get('/teams/:id',existingId ,(req, res) => {
   const id = Number(req.params.id);

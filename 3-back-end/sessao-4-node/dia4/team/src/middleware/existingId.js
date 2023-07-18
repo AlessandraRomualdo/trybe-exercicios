@@ -3,7 +3,7 @@ const existingId = (req, res, next) => {
   if (teams.some((t) => t.id === id)) {
     next();
   } else {
-    res.sendStatus(404)
+    res.sendStatus(404).json({message: 'Time não encontrado'})
   }
 }
 
