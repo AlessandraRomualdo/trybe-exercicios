@@ -47,7 +47,7 @@ _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda
 
 -Projeto App de Receitas :heavy_check_mark:
 
-## Módulo: Back-end :hourglass_flowing_sand:
+## Módulo: Back-end :heavy_check_mark:
 
 -Docker: Itilizando Containers :heavy_check_mark:
 
@@ -55,25 +55,19 @@ _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda
 
 -Funções SQL, JOINs e Normalização :heavy_check_mark:
 
--Introdução ao desenvolvimento Web com Node.js
+-Introdução ao desenvolvimento Web com Node.js :heavy_check_mark:
 
--Arquitetura de Software: Model, Service e Controller
+-Arquitetura de Software: Model, Service e Controller :heavy_check_mark:
 
--Node.js: ORM e Autenticação
+-Node.js: ORM e Autenticação :heavy_check_mark:
 
--Masterclass: Implatação de Aplicações na Nuvem
+-Masterclass: Implatação de Aplicações na Nuvem :heavy_check_mark:
 
--Introdução a TypeScript
+-Introdução a TypeScript :heavy_check_mark:
 
--Programação Orientada a Objetos (POO) e SOLID
+-Programação Orientada a Objetos (POO) e SOLID :heavy_check_mark:
 
--Projeto - TFC - Trybe Futebol Clube
-
--Introdução ao MongoDB
-
--APIs OO e NoSQL
-
--Projeto - App de Delivery
+-Projeto - TFC - Trybe Futebol Clube :heavy_check_mark:
 
 ## Módulo: Ciência da Conputação
 
