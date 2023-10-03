@@ -38,10 +38,10 @@
 
 - [X] 1-2: Node.js: API REST com Express
 
-- [] 1-3: Node.js: Testes de Integração
+- [X] 1-3: Node.js: Testes de Integração
 
-- [] 1-4: Node.js: Express e Middlewares
+- [X] 1-4: Node.js: Express e Middlewares
 
-- [] 1-5: Node.js: Express e MySQL
+- [X] 1-5: Node.js: Express e MySQL
 
-- [] 1-6: Projeto: Talker Manager
+- [X] 1-6: Projeto: Talker Manager
