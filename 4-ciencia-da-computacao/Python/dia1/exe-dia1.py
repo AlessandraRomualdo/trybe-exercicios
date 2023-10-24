@@ -5,6 +5,7 @@ def returnMax(a, b):
     else:
         return b
 
+
 def average(list):
     sum = 0
     for i in list:
@@ -15,7 +16,8 @@ def average(list):
 def printSquere(n):
     if (n > 1):
         for i in range(n):
-            print ('*' * n)
+            print('*' * n)
+
 
 def printMaxName(list):
     max = ''
@@ -24,6 +26,7 @@ def printMaxName(list):
             max = i
     print(max)
     return max
+
 
 def paint_costs(area):
     can_price = 80
@@ -34,7 +37,8 @@ def paint_costs(area):
     print(required_cans, required_cans * can_price)
     return required_cans, required_cans * can_price
 
-def isTriangle( a, b, c):
+
+def isTriangle(a, b, c):
     isTri = a + b > c and a + c > b and b + c > a
     if not isTri:
         return 'não é um triângulo'
@@ -44,17 +48,19 @@ def isTriangle( a, b, c):
         return 'É um triângulo isósceles'
     else:
         return 'É um triângulo escaleno'
-    
 #  exercicios bonus
+
 
 def minValue(list):
     print(min(list))
     return min(list)
 
+
 def printTriangle(n):
     if (n > 1):
         for i in range(n):
-            print ('*' * (i + 1))
+            print('*' * (i + 1))
+
 
 def sum(n):
     sum = 0
@@ -62,29 +68,32 @@ def sum(n):
         sum += i
     print(sum)
 
+
 def totalFuel(liters, type):
     A = 1.9
     G = 2.5
     if (type == 'A' and liters > 20):
-       value_with_desc = A -( A * ( 5 / 100))
-       total = value_with_desc * liters
-       return total
+        value_with_desc = A - (A * (5 / 100))
+        total = value_with_desc * liters
+        return total
     elif (type == 'A' and liters <= 20):
-      value_with_desc = A -( A * ( 3 / 100))
-      total = value_with_desc * liters
-      return total
+        value_with_desc = A - (A * (3 / 100))
+        total = value_with_desc * liters
+        return total
     elif (type == 'G' and liters > 20):
-      value_with_desc = G -( G * ( 6 / 100))
-      total = value_with_desc * liters
-      return total
+        value_with_desc = G - (G * (6 / 100))
+        total = value_with_desc * liters
+        return total
     else:
-      value_with_desc = G -( G * ( 4 / 100))
-      total = value_with_desc * liters
-      return total
+        value_with_desc = G - (G * (4 / 100))
+        total = value_with_desc * liters
+        return total
 
 
-# outra forma de fazer 
-totalFuel(20, 'A') 
+# outra forma de fazer
+totalFuel(20, 'A')
+
+
 def fuel_price(type, liters):
     if type == "A":
         price = 1.90
