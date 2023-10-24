@@ -71,13 +71,9 @@ _"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda
 
 ## Módulo: Ciência da Conputação
 
--Introdução à Python
+-Introdução à Python :heavy_check_mark:
 
--Padrões de Projeto
-
--Raspagem de Dados
-
--Algoritmos
+-Algoritmos :heavy_check_mark:
 
 -Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
 
